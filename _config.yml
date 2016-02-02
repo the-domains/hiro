@@ -2,6 +2,7 @@ name: hiro
 favicon: null
 layout_spectrum: 0.8440964440815151
 typography_spectrum: 0.01803914410993457
+title: hiro
 cta:
   domain: null
   bucket: null
